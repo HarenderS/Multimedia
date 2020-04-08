@@ -30,13 +30,18 @@ footer {
     background-position: center center;
     background-size: cover;
     padding-top: 205px;
-    padding-bottom: 205px;
+    padding-bottom: 200px;
     width:100%;
 }
 
 .container{
     padding: 75px 0px;
 }
+
+h2{
+    font-size: 16px;
+}
+
 .solid{
     visibility: hidden;
 }
@@ -52,7 +57,7 @@ footer {
     background-position: center center;
     background-size: cover;
     padding-top: 225px;
-    padding-bottom: 208px;
+    padding-bottom: 210px;
     width:100%;
 }
 
@@ -69,8 +74,8 @@ footer {
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
-    padding-top: 295px;
-    padding-bottom: 295px;
+    padding-top: 305px;
+    padding-bottom: 305px;
     width:100%;
 }
 
